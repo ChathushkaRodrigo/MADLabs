@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="409dp"
+        android:layout_height="128dp"
+        android:layout_marginLeft="2px"
+        android:layout_marginTop="5px"
+        android:layout_marginRight="10px"
+        android:layout_marginBottom="9px"
+        android:fontFamily="serif-monospace"
+        android:linksClickable="false"
+        android:longClickable="false"
+        android:paddingBottom="10px"
+        android:text="Hello IT20192600"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:onClick="@string/welcome"
+        android:text="Proceed"
+        app:cornerRadius="@null"
+        app:icon="@color/teal_700"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="836dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="9px"
+        android:paddingLeft="2px"
+        android:paddingTop="4px"
+        android:paddingRight="2px"
+        android:paddingBottom="5px"
+        android:text="Chathushka Rodrigo"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="356dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Y2.S1.18.2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="681dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
