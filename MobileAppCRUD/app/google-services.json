@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "476333723165",
+    "project_id": "mad-oblivion-3a03e",
+    "storage_bucket": "mad-oblivion-3a03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476333723165:android:a090392eda83994dfb00f4",
+        "android_client_info": {
+          "package_name": "com.mad.mad_oblivion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476333723165-ejrnrun3kgp7q4tou0urno9b3fh1tuq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0jVplFVURRk-084wnY6Ce5h4n6s0SOPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476333723165-ejrnrun3kgp7q4tou0urno9b3fh1tuq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476333723165:android:a5ef13de1c409c61fb00f4",
+        "android_client_info": {
+          "package_name": "com.mad.mobileappcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476333723165-ejrnrun3kgp7q4tou0urno9b3fh1tuq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0jVplFVURRk-084wnY6Ce5h4n6s0SOPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476333723165-ejrnrun3kgp7q4tou0urno9b3fh1tuq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

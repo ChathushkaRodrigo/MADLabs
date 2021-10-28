@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text">lbt1</string>
+    <string name="lbttext1">lbtext1</string>
+    <string name="dec1" />
+    <string name="decx1">78.9</string>
+    <string name="ok1">ok</string>
+    <string name="lb2text1">Number 1</string>
+    <string name="lb2Text2">Number 2</string>
+</resources>
